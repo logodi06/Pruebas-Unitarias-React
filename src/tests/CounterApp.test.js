@@ -14,8 +14,6 @@ describe('Pruebas en CountApp', () => {
     });
 
     test('Debe de mostrar <CountApp/> correctamente', () => {
-        
-
        
         // const etiqueta = wrapper.find('h2').text();
         // console.log(etiqueta);
